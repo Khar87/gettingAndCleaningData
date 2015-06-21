@@ -7,6 +7,7 @@ other values - averages for particular measurments for subject and activity
 
 Data was created from original Human Activity Recognition Using Smartphones Dataset. 
 Steps performed by the script:
+
   1) Reads the data from the original dataset.
   
   2) Converts activities codes to their names.
