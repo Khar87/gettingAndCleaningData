@@ -1,10 +1,13 @@
-#Data frame variables:
+#Code book
+
+##Data frame variables:
 subject - individual that performed the activity, values 1 to 30
 
 activity - activity performed by the subject - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 other values - averages for particular measurments for subject and activity
 
+##Scrip actions:
 Data was created from original Human Activity Recognition Using Smartphones Dataset. 
 Steps performed by the script:
 
